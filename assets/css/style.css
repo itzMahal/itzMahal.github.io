@@ -262,6 +262,9 @@ ul.side-nav.fixed li.logo {
   box-sizing: content-box;
   min-height: 90px;
   padding: 30px 30px 40px;
+  background: url('https://itzmahal.github.io/assets/img/My_Image.jpg') center/cover no-repeat;
+  margin: 0px;
+  border-radius: 70px;
 }
 
 ul.side-nav.fixed li.logo a {
